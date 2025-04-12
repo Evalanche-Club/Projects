@@ -11,6 +11,7 @@ List of projects done by the Dept. of ECE
 3. [Sinchan KN](student_projects/sinchan.md)
 4. [Shanthi Vinay](student_projects/shanthi_vinay.md)
 5. [Hemang Nagpal](student_projects/hemang_nagpal.md)
+6. [Arsh Singh](student_projects/arsh.md)
 
 
 ### 4th SEMESTER 
