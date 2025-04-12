@@ -16,4 +16,4 @@ List of projects done by the Dept. of ECE
 
 ### 4th SEMESTER 
 
-1. [Razikur Rehman](student_projects/razik.md)
+1. [Razikur Rahman](student_projects/razik.md)
