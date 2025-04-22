@@ -13,6 +13,8 @@ List of projects done by the Dept. of ECE
 5. [Hemang Nagpal](student_projects/hemang_nagpal.md)
 6. [Arsh Singh](student_projects/arsh.md)
 7. [K Sabarikrishna](student_projects/sabarikrishna.md)
+8. [Tirumala Riya](student_projects/riya.md)
+
 ### 4th SEMESTER 
 
 1. [Razikur Rahman](student_projects/razik.md)
